@@ -6,7 +6,7 @@
 
 🌩 Some intresting projects I worked on the past
 * [Rocket Simulation](https://github.com/saandre15/rocket-simulation) - Elementary planatary rocket launch simulation
-* [MSDB-Recovery](https://github.com/saandre15/msdb-recovery) - Used to crack and recover companies client information database.
+* [Microsoft Database Recovery Tool](https://github.com/saandre15/msdb-recovery) - Used to crack and recover companies client information database.
 
 👯 Here are some projects I've collaborated on
 * [Typescript](https://github.com/Microsoft/TypeScript)
