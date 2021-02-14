@@ -1,16 +1,14 @@
-### Hi there 👋
+## Welcome 👋
 
-<!--
-**saandre15/saandre15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Here are some cool projects that I'm currently working & need help with
+* [Librecommerce](https://github.com/saandre15/librecommerce-app) - Federated E-Commerce Platform
+* [Opencloud](https://github.com/saandre15/opencloud-docs) - Self Hosted Online Office Suite Application
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 Here are some projects I've collaborated on
+* [Typescript](https://github.com/Microsoft/TypeScript)
+* [VSCode](https://github.com/microsoft/vscode)
+
+🌱 Interests include
+* Academic: Math, Physics, Computer Science, Economics, 
+* Technical: Information Technology, Web Development, and System Administration. 
