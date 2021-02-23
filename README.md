@@ -1,8 +1,9 @@
 ## Welcome 👋
 
 🔭 Here are some cool projects that I'm currently working & need help with
-* [Librecommerce](https://github.com/saandre15/librecommerce-app) - Federated E-Commerce Platform
+* [Librecommerce](https://github.com/saandre15/librecommerce-app) - Federated E-Commerce Application
 * [Opencloud](https://github.com/saandre15/opencloud-docs) - Self Hosted Online Office Suite Application
+* [optimizecdn](https://github.com/saandre15/optimizecdn) - Self-Paying Content Deliviery Application
 
 🌩 Some intresting projects I worked on the past
 * [Rocket Simulation](https://github.com/saandre15/rocket-simulation) - Elementary planatary rocket launch simulation
