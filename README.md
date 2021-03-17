@@ -7,6 +7,7 @@
 
 🌩 Some intresting projects I worked on the past
 * [Rocket Simulation](https://github.com/saandre15/rocket-simulation) - Elementary planatary rocket launch simulation
+* [Pendulum Simulation](https://github.com/saandre15/pendulum-simulation) - Pendulum simulation using non-linear differential equations
 * [Microsoft Database Recovery Tool](https://github.com/saandre15/msdb-recovery) - Used to crack and recover companies client information database.
 * [RTSP Web Streamer](https://github.com/saandre15/rtsp-web-streamer) Converts RTSP streams to websocket streams
 
