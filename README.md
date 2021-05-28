@@ -12,8 +12,8 @@ Who am I?: A bioinfomatic visiting research assistant @ Dr. Torabifard Lab [UTD]
 🔭 Here are some cool projects that I'm currently working & need help with
 * [Librecommerce](https://github.com/saandre15/librecommerce-app) - Federated E-Commerce Application
 * [Opencloud](https://github.com/saandre15/opencloud-docs) - Self Hosted Online Office Suite Application
-* [optimizecdn](https://github.com/saandre15/optimizecdn) - Self-Paying Content Deliviery Application
-
+* [Watchdog](https://github.com/saandre15/watchdog) - Dog monitoring software for commercial facility and personal usage
+    
 ## Stats
 <p align="center">
   Overall Stats
