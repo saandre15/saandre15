@@ -33,6 +33,4 @@ Who am I?: A bioinfomatic visiting research assistant @ Dr. Torabifard Lab [UTD]
 
 X = andre, Y = shomenetwork, Z = ga
 
-Contact Me: X@Y.Z
-
 Visit my Website: X.Y.Z
