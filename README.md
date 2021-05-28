@@ -23,7 +23,7 @@ Who am I?: A bioinfomatic visiting research assistant @ Dr. Torabifard Lab [UTD]
 </p>
 
 <p align="center">
-  Overall Stats
+  Top Languages Used
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saandre15" />
