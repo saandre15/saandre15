@@ -1,10 +1,11 @@
 ## Welcome 👋
 
 ![](https://komarev.com/ghpvc/?username=saandre15)
+![](https://img.shields.io/github/followers/saandre15.svg?style=social&label=Follow)
 
 I'm Andre Sae!
 
-Currently: A bioinfomatic visiting research assistant @ Dr. Torabifard Lab [UTD]. I'm using DNA methylase big and smart data to calculate the probablity of getting diseases such as Cancer & Alzheimer.
+Who am I?: A bioinfomatic visiting research assistant @ Dr. Torabifard Lab [UTD]. I'm using DNA methylase big and smart data to calculate the probablity of getting diseases such as Cancer & Alzheimer.
 
 ## Looking for open source developers & engineer...
 
