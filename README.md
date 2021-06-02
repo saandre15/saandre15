@@ -5,7 +5,7 @@
 
 I'm Andre Sae!
 
-Who am I?: A bioinfomatic visiting research assistant @ Dr. Torabifard Lab [UTD]. I'm using DNA methylase big and smart data to calculate the probablity of getting diseases such as Cancer & Alzheimer.
+Who am I?: A bioinfomatic visiting research assistant @ Dr. Torabifard Lab [UTD]. I'm using DNA methylase big and smart data + machine learning to calculate the probablity of getting diseases such as Cancer & Alzheimer. I'm also a software engineer that specializes web & app development.
 
 ## Looking for open source developers & engineer...
 
