@@ -9,7 +9,7 @@ Who am I?: A bioinfomatic visiting research assistant @ Dr. Torabifard Lab [UTD]
 
 What are my interests?: Physics & Chemistry Based Computational Simulations, Quantum Computing, Applied Machine Learning, Drug and Medical Research, and Web & App Development.
 
-## Looking for open source developers & engineer...
+## Looking for open source developers & engineers & researchers...
 
 🔭 Here are some cool projects that I'm currently working & need help with
 * [Librecommerce](https://github.com/saandre15/librecommerce-app) - Federated E-Commerce Application
